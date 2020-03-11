@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142555434287",
+    "firebase_url": "https://yamyah-635cd.firebaseio.com",
+    "project_id": "yamyah-635cd",
+    "storage_bucket": "yamyah-635cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142555434287:android:43597ee53570dad37625da",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142555434287-29glfshhpces5di6qg13m8fa6998purs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZGhz9P2IAv-Dc2F0UVl6jqi5N7QRdn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142555434287-29glfshhpces5di6qg13m8fa6998purs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
