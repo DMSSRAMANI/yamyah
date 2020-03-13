@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myapplication">
+    package="com.example.shopping">
 
     <application
         android:allowBackup="true"
@@ -9,6 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".nameActivity"
+            android:label="@string/title_activity_name"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".AdminCatogiryActivity" />
+        <activity android:name=".AdminAddNewProductActivity" />
+        <activity android:name=".registerActivity" />
+        <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
